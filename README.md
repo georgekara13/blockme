@@ -1,4 +1,5 @@
                                            ----------Welcome to BlockMe!-----------
+/*authors: George Karagiannis,Fotis Georgakopoulos*/
 
 A simple terminal game written in C.All you have to do is to cross the border and reach the opposite side.Sounds simple right?
 You can play VS A.I opponents,or human ones(if you have any friends at all).
